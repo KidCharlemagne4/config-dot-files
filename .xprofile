@@ -1,5 +1,3 @@
 #!/bin/sh
 
-#xwallpaper --zoom ~/.config/wallpaper/sun-red.jpg
-
 ~/scripts/setbg
