@@ -17,6 +17,7 @@ networkmanager
 nyx
 openssh
 pcmanfm
+pfetch
 rxvt-unicode
 socat
 tor

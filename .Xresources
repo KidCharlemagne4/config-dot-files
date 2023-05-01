@@ -1,11 +1,12 @@
 !! Colorscheme 
 
-! special  
+! special
+
 *.foreground:	#aaaaaa
-*.background:   #111111 
+*.background:   #000000
 !*.cursorColor:  #c5c8c6 
 *.cursorColor: 1
-
+*.alpha: 0.5
 ! red 
 !*.color1:       #cc342b 
 !*.color9:       #cc342b 
@@ -30,7 +31,7 @@ URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true 
 URxvt.depth: 24 
 URxvt.iso14755: false 
-! URxvt.inheritPixmap: true
+URxvt.inheritPixmap: true
 URxvt.transparent: true
-URxvt.shading: 45
+URxvt.shading: 20
 ! ^ 0-99 darkens | 101-200 lightens 
