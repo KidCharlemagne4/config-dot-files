@@ -6,7 +6,7 @@
 *.background:   #000000
 !*.cursorColor:  #c5c8c6 
 *.cursorColor: 1
-*.alpha: 0.5
+!*.alpha: 0.5
 ! red 
 !*.color1:       #cc342b 
 !*.color9:       #cc342b 
@@ -33,5 +33,5 @@ URxvt.depth: 24
 URxvt.iso14755: false 
 URxvt.inheritPixmap: true
 URxvt.transparent: true
-URxvt.shading: 20
+URxvt.shading: 40
 ! ^ 0-99 darkens | 101-200 lightens 
